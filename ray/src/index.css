@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  margin-right: 0%;
+  color: white;
 }
 
 html,
@@ -10,4 +12,6 @@ div[data-reactroot] {
   height: 100%;
   padding: 0;
   margin: 0;
+  width: 100vw;
 }
+

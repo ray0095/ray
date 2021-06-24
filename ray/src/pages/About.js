@@ -1,22 +1,36 @@
 import React from "react";
-import Container from "../components/Container";
 import Carousel from "../components/Carousel";
+import BioPic from "../components/BioPics";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import "./style.css";
 
 function About() {
   return (
     <div>
 
-      <Container>
+    
         <Row>
           <Col size="md-4">
             <div>
-              <h1>Place profile photos here!</h1>
+              <BioPic></BioPic>
             </div>
           </Col>
           <Col size="md-4">
-            <h1>Welcome To Pupster!</h1>
+            <h1>Rachel Strong the Developer</h1>
+            <p>I'm a Brooklyn-based developer who has a passion for design. I have significant experience in non-technical customer-facing roles in the Cloud computing space so not only can I build you a beautiful application, I can understand and incorporate your business needs. I see no reason why we can't do incredible work and have fun while doing it.</p>
+            <p>Outside of work I am an avid cook, bike rider, and whiskey connoisseur.</p>
+            <Col>
+              <a href="https://github.com/ray0095">
+              <i class="fab fa-github fa-3x"></i>
+              </a>
+              <a href="https://www.linkedin.com/in/rachel-strong-54276a142/">
+              <i class="fab fa-linkedin fa-3x"></i>
+              </a>
+              <a href="mailto::rachelstrongstorage@gmail.com">
+              <i class="fas fa-paper-plane fa-3x"></i>
+              </a>
+            </Col>
           </Col>
           <Col size="md-4">
             <Carousel>
@@ -24,7 +38,7 @@ function About() {
             </Carousel>
           </Col>
         </Row>
-      </Container>
+     
     </div>
   );
 }
