@@ -1,6 +1,6 @@
 # Ray on React
 
-## Link to deployed site:
+## Link to deployed site: https://ray-the-developer.herokuapp.com/
 
 
 ## Description 
