@@ -6,8 +6,8 @@ import "./style.css";
 function BioPic() {
     return (
         <div class="card">
-            <img src="./bio-photo.jpg" alt="Card Back"></img>
-            <img src="./bio-2-photo.jpg" class="img-top" alt="Card Front"></img>
+            <img src="./bio-one.png" alt="Card Back"></img>
+            <img src="./bio-two.png" class="img-top" alt="Card Front"></img>
         </div>
     )
 }

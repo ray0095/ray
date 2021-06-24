@@ -12,7 +12,7 @@ function Carousel() {
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg" class="d-block w-100 h-100vh" alt="..."></img>
+                        <img src="./planner.png" class="d-block w-100 h-100vh" alt="..."></img>
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Day Planner</h5>
                             <p>Simple app utilizing local storage and Moment.js to save daily taks in an organized way.</p>
@@ -20,7 +20,7 @@ function Carousel() {
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://cdn.britannica.com/30/133930-131-580E6710/Background-bubble-planets-clouds-astrology-astronomy-bubbles.jpg" class="d-block w-100" alt="..."></img>
+                        <img src="./tipsytarot.png" class="d-block w-100" alt="..."></img>
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Tipsy Tarot</h5>
                             <p>A fun drink recommendation and fortune telling app utilizing the CocktailDB API</p>
@@ -28,7 +28,7 @@ function Carousel() {
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://www.thoughtco.com/thmb/f5nOqM1DFHeOmd78BnOErkCznpY=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/solar-system-439046_1920-be1042fd410b4878b66848659193859d.jpg" class="d-block w-100" alt="..."></img>
+                        <img src="ecommerce.png" class="d-block w-100" alt="..."></img>
                         <div class="carousel-caption d-none d-md-block">
                             <h5>E-Commerce Back-end</h5>
                             <p>This app feature the M and C of your standard MVC application. Users can create, read, update, and delete items from an e-commerce database.</p>
