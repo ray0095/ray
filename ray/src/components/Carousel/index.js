@@ -15,7 +15,7 @@ function Carousel() {
                         <img src="./planner.png" class="d-block w-100 h-100vh" alt="..."></img>
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Day Planner</h5>
-                            <p>Simple app utilizing local storage and Moment.js to save daily taks in an organized way.</p>
+                            <p>Simple app utilizing local storage and Moment.js to save daily tasks in an organized way.</p>
                             <a class="btn btn-dark" href="https://github.com/ray0095/dayplanner" role="button">Check out the repo</a>
                         </div>
                     </div>
@@ -31,7 +31,7 @@ function Carousel() {
                         <img src="ecommerce.png" class="d-block w-100" alt="..."></img>
                         <div class="carousel-caption d-none d-md-block">
                             <h5>E-Commerce Back-end</h5>
-                            <p>This app feature the M and C of your standard MVC application. Users can create, read, update, and delete items from an e-commerce database.</p>
+                            <p>This app features the M and C of your standard MVC application. Users can create, read, update, and delete items from an e-commerce database.</p>
                             <a class="btn btn-dark" href="https://github.com/ray0095/ecommerce-backend" role="button">Check out the repo</a>
                         </div>
                     </div>
